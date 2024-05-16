@@ -3,7 +3,7 @@
 Please fork this repository to complete your homework assignments (2-6).
 Forking will create a repository on your http://github.com account.
 
-## Expalanation Recording to hanle homeworks in the Node.js Block
+## Explanation Recording to handle homeworks in the Node.js Block
 [Watch the video](https://www.loom.com/share/007c97d271604e02ae61adbb5b69edd3)
 
 ### Commands:

@@ -1,8 +1,6 @@
 ## GoIT Node.js Course Template Homework
 
 Homework03 - MongoDB 
-Please fork this repository to complete your homework assignments (2-6). Forking
-will create a repository on your http://github.com account.
 
 Using Postman and create a GET request
 <img width="1076" alt="Postman-GET" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/a85f05b9-bcf2-4358-b93e-003a142b3d9d">

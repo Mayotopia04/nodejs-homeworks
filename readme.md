@@ -1,38 +1,33 @@
-## GoIT Node.js block Homework04 with Authentication
+## GoIT Node.js block Homework05 with Avatars
 
-## GET-page and limit params
-<img width="640" alt="GET-page limit-params" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/9b225cac-d861-4261-b8f1-1aee89089046">
+## POST: /api/users/signup at Postman
+<img width="640" alt="hw05-POST-signup" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/75621c5e-103f-41fc-8fdd-c2bb0ec161cc">
 
-## GET favorite:true key-value in Postman
-<img width="640" alt="GET-favorite-true" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/395ea152-ee02-4c8a-a916-3f6076e9076e">
+## MongoDB - signup
+<img width="640" alt="hw05-mongoDB-signup" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/2ec1d53e-6d5b-4e94-b163-5161446d96e9">
 
-## GET favorite:true key-value in browser
-<img width="441" alt="GET-favorite-true-browser" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/53a0e074-b996-4b67-86d7-853cf33670a5">
+## POST: api/users/login at Postman
+<img width="640" alt="Postman-POST-login" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/c4c676cc-41ff-40a9-ae54-284749c934d7">
 
-## POST signup in Postman
-<img width="640" alt="POST-signup-postman" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/a0fff76a-e376-477b-ae28-9f1d9497998c">
+## GET - browser avatarURL link
+<img width="640" alt="gravatar-path-link" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/999fe405-ccf3-4838-aa89-e20a123c8d11">
 
-## POST signup in mongoDB
-<img width="640" alt="POST-signup-postman" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/faac7486-35c8-4e25-bc3b-1e67a2032cd1">
-
-## POST login in Postman
-<img width="640" alt="POST-login-Postman" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/60fde8b1-4d33-41c9-8500-b79d21b15ead">
-
-## GET logout in Postman
-<img width="640" alt="Postman-GET-logout" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/9c0d858a-c1ea-4588-a7ac-b0e6cb03547e">
+## PATCH: api/users/avatars at Postman (and under Body option I switched Text to File to allow upload of image file ) 
+<img width="640" alt="Postman-PATCH-request-hw5" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/c2bc97cf-304c-4514-8cef-0e88c52accda">
+<img width="1082" alt="PATCH-body-file" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/f16978e3-17b7-4f8d-9f8e-0983a94e5b18">
 
 
-## GET logout in mongoDB
-<img width="640" alt="mongoDB-GET-logout" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/3fdc3278-00c5-43cc-b9c6-02eeb93a6d84">
+## MongoDB updated avatarURL link
+<img width="640" alt="mongoDB-updated-gravatar" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/e6532b08-16eb-40c8-9cc5-162f283f4c36">
 
-## PATCH subscription update in Postman
-<img width="640" alt="PATCH-subscription-update" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/7cd6bcce-0384-48d6-876f-baaeabb68ea2">
+## GET - browser updated avatarURL link
+<img width="1118" alt="updated-gravatar-link" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/bcede733-9a19-4669-a4fd-07900f243485">
 
-## PATCH subscription update in mongoDB
-<img width="640" alt="mongoDB-subscription-update" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/5a3df575-b380-4135-8a6d-64ebbc640119">
+## VS code server terminal
+<img width="640" alt="VScode-server-hw05" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/4a3efb29-a296-41ad-878c-1c9fe8146a1e">
 
-## GET /current in Postman
-<img width="640" alt="GET-currentUser" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/6de3a7e1-8482-4efb-b2ad-c52aa33a7ff7">
+## VS code unit test console using Jest
+<img width="640" alt="unit-test-terminalhw5" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/9c011882-92c3-41db-8012-b1e061065a46">
 
 
 ## Explanation Recording to handle homeworks in the Node.js Block

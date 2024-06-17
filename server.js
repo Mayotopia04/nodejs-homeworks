@@ -4,7 +4,7 @@ import { app } from "./app.js";
 
 dotenv.config();
 
-const { MY_MONGODB_URI, PORT = 3005 } = process.env;
+const { MY_MONGODB_URI, PORT = 3006 } = process.env;
 
 mongoose
   .connect(MY_MONGODB_URI)

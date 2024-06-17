@@ -12,6 +12,8 @@ app.use(logger(formatsLogger));
 app.use(cors());
 app.use(express.json());
 
+// tells Express to serve static files from the public directory 
+//open http://localhost:3006/avatars/66623b69e63f68be3687ec57.jpeg on browser
 app.use(express.static("public"));
 
 app.use("/api/contacts", contactsRouter);
